@@ -18,13 +18,25 @@ This tool allows you to quickly replace specific hex strings with new ones withi
 
 **Go installation:** Ensure you have Go installed on your system. Refer to the official Go documentation for installation instructions: [https://go.dev/doc/install](https://go.dev/doc/install).
 
-**Building from source:**
+**Installation from Source:**
+
+1. Clone the repository:
 
 ```bash
-go get github.com/dimasmaulana/hexreplacer
+git clone https://github.com/dimasmaulana/hexreplacer.git
 ```
 
-(Replace `<username>` with the actual GitHub username or repository path where the code is located.)
+1. Navigate to the cloned directory:
+
+```bash
+cd hexreplacer
+```
+
+3. Execute the following command to install:
+
+```bash
+go install
+```
 
 ## Usage
 
@@ -53,4 +65,5 @@ This tool is licensed under the MIT License. See the LICENSE file for details.
 ## Contributing
 
 Pull requests are welcome! Feel free to contribute to the project by submitting bug fixes, enhancements, or new features.
+
 # hexreplacer
