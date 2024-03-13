@@ -1,6 +1,6 @@
-## hexreplacer
+# hexreplacer
 
-**A simple command-line tool to find and replace hex strings within files.**
+A simple command-line tool to find and replace hex strings within files.
 
 ## Description
 
@@ -32,7 +32,7 @@ git clone https://github.com/dimasmaulana/hexreplacer.git
 cd hexreplacer
 ```
 
-3. Execute the following command to install:
+1. Execute the following command to install:
 
 ```bash
 go install
@@ -65,5 +65,3 @@ This tool is licensed under the MIT License. See the LICENSE file for details.
 ## Contributing
 
 Pull requests are welcome! Feel free to contribute to the project by submitting bug fixes, enhancements, or new features.
-
-# hexreplacer
